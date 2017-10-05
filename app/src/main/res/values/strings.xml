@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Welcome-App</string>
+    <string name="app_name">Welcome-App-Modified</string>
+    <string name="greeting_message">Greetings everyone, Kelly here!</string>
 </resources>
