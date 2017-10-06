@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">Welcome App, Modified</string>
     <string name="greeting_message">Greetings everyone,\nKelly here!</string>
-    <string name="profile_picture_failed_to_load">The content could not be loaded.
+    <string name="profile_picture_failed_to_load">Oops! The content could not be loaded.
     You are missing out on seeing two beautiful boys coding</string>
     <string name="about_me">Pictured here is my brother and me having some fun coding.
     After watching a YouTube video, he figured out how to run a program on the terminal
     that displayed an abridged version of Star Wars via ASCII art. Pretty sweet!</string>
+    <string name="about_me_failed_to_load">Oops! \'about me\' failed to load</string>
+    <string name="star_wars_failed_to_load">Oops! The Star Sars terimal image failed to load.</string>
 </resources>
