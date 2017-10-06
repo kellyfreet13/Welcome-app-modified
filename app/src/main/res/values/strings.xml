@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Welcome-App-Modified</string>
+    <string name="app_name">Welcome App, Modified</string>
     <string name="greeting_message">Greetings everyone, Kelly here!</string>
     <string name="profile_picture_failed_to_load">The content could not be loaded.
     You are missing out on seeing two beautiful boys coding</string>
